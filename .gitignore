@@ -1,0 +1,15 @@
+# Never commit credentials
+.env
+*.env
+# Never commit report-derived data (not redistributable; MIMIC-IV is under the PhysioNet DUA)
+data/judge_scores/
+data/reader_study/
+*.csv
+summaries/
+judge/
+# Generated outputs
+results/
+radiology_processing.log
+*.partial
+__pycache__/
+*.pyc

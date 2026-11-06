@@ -1,0 +1,23 @@
+# Versions used for the paper (Python 3.10).
+# Analysis only (analysis/): numpy, pandas, scipy, statsmodels, patsy, scikit-learn.
+
+numpy==1.26.1
+pandas==2.1.2
+scipy==1.10.0
+statsmodels==0.14.6
+patsy==1.0.3
+scikit-learn==1.3.2
+tqdm==4.66.1
+regex==2023.10.3
+requests==2.31.0
+
+# Summary generation and LLM judge (pipeline/)
+openai==2.6.0
+transformers==4.49.0
+torch==2.1.0
+
+# Adversarial edit generation (pipeline/adversarial_report_generation.py)
+spacy==3.7.4
+scispacy==0.5.4
+# SciSpaCy model, installed separately:
+#   pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_core_sci_md-0.5.4.tar.gz

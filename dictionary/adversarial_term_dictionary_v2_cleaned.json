@@ -1,0 +1,2193 @@
+{
+  "term_alternatives": {
+    "upper": {
+      "alternatives": [
+        "central",
+        "entire",
+        "low",
+        "lower",
+        "mid"
+      ],
+      "category": "location"
+    },
+    "low": {
+      "alternatives": [
+        "central",
+        "inferior",
+        "superior",
+        "upper"
+      ],
+      "category": "location"
+    },
+    "lower": {
+      "alternatives": [
+        "central",
+        "inferior",
+        "superior",
+        "upper"
+      ],
+      "category": "location"
+    },
+    "anterior": {
+      "alternatives": [
+        "central",
+        "intra-abdominal",
+        "lateral",
+        "medial",
+        "posterior"
+      ],
+      "category": "location"
+    },
+    "posterior": {
+      "alternatives": [
+        "anterior",
+        "central",
+        "lateral",
+        "medial",
+        "peripheral"
+      ],
+      "category": "location"
+    },
+    "central": {
+      "alternatives": [
+        "anterior",
+        "internal",
+        "lateral",
+        "peripheral",
+        "posterior"
+      ],
+      "category": "location"
+    },
+    "peripheral": {
+      "alternatives": [
+        "anterior",
+        "central",
+        "medial",
+        "peripancreatic",
+        "posterior"
+      ],
+      "category": "location"
+    },
+    "intrapelvic": {
+      "alternatives": [
+        "alimentary",
+        "internal",
+        "intra-abdominal",
+        "intrahepatic",
+        "intrarenal"
+      ],
+      "category": "location"
+    },
+    "intra-abdominal": {
+      "alternatives": [
+        "alimentary",
+        "intrahepatic",
+        "intrapelvic",
+        "intrarenal"
+      ],
+      "category": "location"
+    },
+    "periurethral": {
+      "alternatives": [
+        "adjacent",
+        "intrapelvic",
+        "peri-abdominal",
+        "peri-pelvic",
+        "perihepatic"
+      ],
+      "category": "location"
+    },
+    "small": {
+      "alternatives": [
+        "large",
+        "massive"
+      ],
+      "category": "descriptors"
+    },
+    "large": {
+      "alternatives": [
+        "small"
+      ],
+      "category": "descriptors"
+    },
+    "tiny": {
+      "alternatives": [
+        "large",
+        "moderate",
+        "significant",
+        "substantial"
+      ],
+      "category": "descriptors"
+    },
+    "substantial": {
+      "alternatives": [
+        "small",
+        "insignificant",
+        "subtle"
+      ],
+      "category": "descriptors"
+    },
+    "massive": {
+      "alternatives": [
+        "small"
+      ],
+      "category": "descriptors"
+    },
+    "irregular": {
+      "alternatives": [
+        "regular",
+        "smooth",
+        "uniform",
+        "well-defined"
+      ],
+      "category": "descriptors"
+    },
+    "well-defined": {
+      "alternatives": [
+        "ill-defined"
+      ],
+      "category": "descriptors"
+    },
+    "ill-defined": {
+      "alternatives": [
+        "well-defined"
+      ],
+      "category": "descriptors"
+    },
+    "heterogeneous": {
+      "alternatives": [
+        "homogeneous"
+      ],
+      "category": "descriptors"
+    },
+    "homogeneous": {
+      "alternatives": [
+        "heterogeneous"
+      ],
+      "category": "descriptors"
+    },
+    "hyperdense": {
+      "alternatives": [
+        "hypodense"
+      ],
+      "category": "descriptors"
+    },
+    "hypodense": {
+      "alternatives": [
+        "hyperdense"
+      ],
+      "category": "descriptors"
+    },
+    "mild": {
+      "alternatives": [
+        "marked",
+        "prominent",
+        "severe"
+      ],
+      "category": "descriptors"
+    },
+    "moderate": {
+      "alternatives": [
+        "mild",
+        "severe"
+      ],
+      "category": "descriptors"
+    },
+    "severe": {
+      "alternatives": [
+        "mild",
+        "minimal",
+        "moderate"
+      ],
+      "category": "descriptors"
+    },
+    "marked": {
+      "alternatives": [
+        "mild",
+        "minimal"
+      ],
+      "category": "descriptors"
+    },
+    "minimal": {
+      "alternatives": [
+        "marked",
+        "severe"
+      ],
+      "category": "descriptors"
+    },
+    "moderate-sized": {
+      "alternatives": [
+        "insignificant",
+        "large",
+        "massive",
+        "significant",
+        "small"
+      ],
+      "category": "descriptors"
+    },
+    "acute": {
+      "alternatives": [
+        "chronic"
+      ],
+      "category": "descriptors"
+    },
+    "chronic": {
+      "alternatives": [
+        "acute",
+        "new"
+      ],
+      "category": "descriptors"
+    },
+    "new": {
+      "alternatives": [
+        "chronic"
+      ],
+      "category": "descriptors"
+    },
+    "recurrent": {
+      "alternatives": [
+        "new"
+      ],
+      "category": "descriptors"
+    },
+    "recurrence": {
+      "alternatives": [
+        "new"
+      ],
+      "category": "descriptors"
+    },
+    "active": {
+      "alternatives": [
+        "dormant",
+        "inactive",
+        "quiescent",
+        "resolved",
+        "stable"
+      ],
+      "category": "descriptors"
+    },
+    "normal-sized": {
+      "alternatives": [
+        "large",
+        "massive",
+        "moderate",
+        "small",
+        "tiny"
+      ],
+      "category": "descriptors"
+    },
+    "distend": {
+      "alternatives": [
+        "collapse",
+        "decrease",
+        "distort",
+        "enlarge",
+        "occlude"
+      ],
+      "category": "descriptors"
+    },
+    "dilate": {
+      "alternatives": [
+        "calcify",
+        "collapse",
+        "diffuse",
+        "increase"
+      ],
+      "category": "descriptors"
+    },
+    "thickened": {
+      "alternatives": [
+        "thin"
+      ],
+      "category": "descriptors"
+    },
+    "thin": {
+      "alternatives": [
+        "thickened"
+      ],
+      "category": "descriptors"
+    },
+    "present": {
+      "alternatives": [
+        "absent"
+      ],
+      "category": "descriptors"
+    },
+    "absent": {
+      "alternatives": [
+        "present"
+      ],
+      "category": "descriptors"
+    },
+    "increase": {
+      "alternatives": [
+        "decrease",
+        "dilate",
+        "distend",
+        "enhance"
+      ],
+      "category": "descriptors"
+    },
+    "decrease": {
+      "alternatives": [
+        "dilate",
+        "distend",
+        "distort",
+        "hypoattenuate",
+        "increase"
+      ],
+      "category": "descriptors"
+    },
+    "attenuation": {
+      "alternatives": [
+        "echogenicity",
+        "signal"
+      ],
+      "category": "descriptors"
+    },
+    "density": {
+      "alternatives": [
+        "echogenicity",
+        "signal"
+      ],
+      "category": "descriptors"
+    },
+    "possibly": {
+      "alternatives": [
+        "definitely"
+      ],
+      "category": "confidence_terms"
+    },
+    "probably": {
+      "alternatives": [
+        "may not be",
+        "possibly",
+        "questionable",
+        "unlikely"
+      ],
+      "category": "confidence_terms"
+    },
+    "definitely": {
+      "alternatives": [
+        "possibly"
+      ],
+      "category": "confidence_terms"
+    },
+    "abdomen": {
+      "alternatives": [
+        "appendix",
+        "chest",
+        "flank",
+        "pelvis",
+        "thorax"
+      ],
+      "category": "anatomy"
+    },
+    "pelvis": {
+      "alternatives": [
+        "abdomen",
+        "appendix",
+        "chest",
+        "neck",
+        "thorax"
+      ],
+      "category": "anatomy"
+    },
+    "abdominal wall": {
+      "alternatives": [
+        "cecum",
+        "jejunum",
+        "ovary",
+        "sigmoid colon"
+      ],
+      "category": "anatomy"
+    },
+    "abnormal": {
+      "alternatives": [
+        "normal"
+      ],
+      "category": "descriptors"
+    },
+    "abscess": {
+      "alternatives": [
+        "acute colitis",
+        "hematoma",
+        "inflammation",
+        "necrosis",
+        "phlegmon"
+      ],
+      "category": "pathology"
+    },
+    "adenocarcinoma": {
+      "alternatives": [
+        "adenoma",
+        "cyst",
+        "hematoma",
+        "mass"
+      ],
+      "category": "pathology"
+    },
+    "adenoma": {
+      "alternatives": [
+        "carcinoma",
+        "cyst",
+        "hyperplasia",
+        "metastasis",
+        "nodule"
+      ],
+      "category": "pathology"
+    },
+    "adjacent": {
+      "alternatives": [
+        "anterior",
+        "periurethral"
+      ],
+      "category": "location"
+    },
+    "abdominal": {
+      "alternatives": [
+        "thoracic",
+        "pelvic"
+      ],
+      "category": "location"
+    },
+    "adrenal": {
+      "alternatives": [
+        "accessory spleen",
+        "hepatic artery",
+        "jejunum",
+        "ovary",
+        "sigmoid colon"
+      ],
+      "category": "anatomy"
+    },
+    "air": {
+      "alternatives": [
+        "contrast",
+        "edema",
+        "fluid",
+        "gas",
+        "soft tissue"
+      ],
+      "category": "finding"
+    },
+    "aneurysm": {
+      "alternatives": [
+        "appendicitis",
+        "dissection",
+        "ectasia",
+        "embolus",
+        "hematoma"
+      ],
+      "category": "pathology"
+    },
+    "aorta": {
+      "alternatives": [
+        "celiac axis",
+        "hepatic artery",
+        "ivc",
+        "portal vein",
+        "splenic artery"
+      ],
+      "category": "anatomy"
+    },
+    "appendicitis": {
+      "alternatives": [
+        "adenoma",
+        "colitis",
+        "diverticulitis",
+        "epiploic appendagitis",
+        "ileitis"
+      ],
+      "category": "pathology"
+    },
+    "appendix": {
+      "alternatives": [
+        "abdomen",
+        "bowel",
+        "gallbladder",
+        "ovary",
+        "ureter"
+      ],
+      "category": "anatomy"
+    },
+    "joint": {
+      "alternatives": [
+        "bone",
+        "vertebra",
+        "muscle"
+      ],
+      "category": "anatomy"
+    },
+    "ascites": {
+      "alternatives": [
+        "adenoma",
+        "cholecystitis",
+        "hemoperitoneum",
+        "hydronephrosis",
+        "peritonitis"
+      ],
+      "category": "pathology"
+    },
+    "atelectasis": {
+      "alternatives": [
+        "ascites",
+        "embolus",
+        "fibrosis",
+        "mass",
+        "pneumonia"
+      ],
+      "category": "pathology"
+    },
+    "duodenitis": {
+      "alternatives": [
+        "ascites",
+        "embolus",
+        "fibrosis",
+        "pneumonia"
+      ],
+      "category": "pathology"
+    },
+    "proctocolitis": {
+      "alternatives": [
+        "ascites",
+        "embolus",
+        "fibrosis",
+        "pneumonia"
+      ],
+      "category": "pathology"
+    },
+    "atrophic": {
+      "alternatives": [
+        "cystic",
+        "hypodense",
+        "ill-defined",
+        "nodular",
+        "thin"
+      ],
+      "category": "descriptors"
+    },
+    "metastatic": {
+      "alternatives": [
+        "benign",
+        "inflammatory"
+      ],
+      "category": "descriptors"
+    },
+    "bilateral": {
+      "alternatives": [
+        "unilateral"
+      ],
+      "category": "location"
+    },
+    "bile duct": {
+      "alternatives": [
+        "aorta",
+        "hepatic artery",
+        "pancreatic duct",
+        "portal vein",
+        "ureter"
+      ],
+      "category": "anatomy"
+    },
+    "bladder": {
+      "alternatives": [
+        "bile duct",
+        "prostate",
+        "rectum",
+        "ureter",
+        "uterus"
+      ],
+      "category": "anatomy"
+    },
+    "body": {
+      "alternatives": [
+        "bladder dome",
+        "brain"
+      ],
+      "category": "anatomy"
+    },
+    "bone": {
+      "alternatives": [
+        "bile duct",
+        "bladder",
+        "muscle",
+        "soft tissue",
+        "tendon"
+      ],
+      "category": "anatomy"
+    },
+    "bowel": {
+      "alternatives": [
+        "appendix",
+        "kidney",
+        "liver",
+        "lung",
+        "spleen"
+      ],
+      "category": "anatomy"
+    },
+    "breast": {
+      "alternatives": [
+        "axilla",
+        "bladder",
+        "bone",
+        "chest wall",
+        "pectoralis muscle"
+      ],
+      "category": "anatomy"
+    },
+    "calcification": {
+      "alternatives": [
+        "adhesion",
+        "calculus",
+        "collection",
+        "fluid",
+        "ossification"
+      ],
+      "category": "finding"
+    },
+    "calcify": {
+      "alternatives": [
+        "collapse",
+        "dilate",
+        "occlude"
+      ],
+      "category": "descriptors"
+    },
+    "cancer": {
+      "alternatives": [
+        "benign lesion",
+        "cholecystitis",
+        "cirrhosis",
+        "infection",
+        "inflammation"
+      ],
+      "category": "pathology"
+    },
+    "infection": {
+      "alternatives": [
+        "benign lesion",
+        "adenoma",
+        "metastasis"
+      ],
+      "category": "pathology"
+    },
+    "carcinoma": {
+      "alternatives": [
+        "cholecystitis",
+        "hematoma",
+        "metastasis",
+        "neoplasm",
+        "stricture"
+      ],
+      "category": "pathology"
+    },
+    "cecum": {
+      "alternatives": [
+        "abdominal wall",
+        "accessory spleen",
+        "gallbladder",
+        "spleen",
+        "stomach"
+      ],
+      "category": "anatomy"
+    },
+    "chest": {
+      "alternatives": [
+        "abdomen",
+        "bladder",
+        "head",
+        "neck",
+        "pelvis"
+      ],
+      "category": "anatomy"
+    },
+    "cholecystitis": {
+      "alternatives": [
+        "aneurysm",
+        "biliary dilatation",
+        "cholelithiasis",
+        "hepatitis",
+        "pancreatitis"
+      ],
+      "category": "pathology"
+    },
+    "cirrhosis": {
+      "alternatives": [
+        "atelectasis",
+        "fibrosis",
+        "hepatitis",
+        "portal hypertension",
+        "steatosis"
+      ],
+      "category": "pathology"
+    },
+    "steatosis": {
+      "alternatives": [
+        "atelectasis",
+        "fibrosis",
+        "portal hypertension",
+        "cirrhosis"
+      ],
+      "category": "pathology"
+    },
+    "clear": {
+      "alternatives": [
+        "ambiguous",
+        "equivocal",
+        "indeterminate",
+        "unclear"
+      ],
+      "category": "confidence_terms"
+    },
+    "colitis": {
+      "alternatives": [
+        "diverticulitis",
+        "enteritis",
+        "infection",
+        "inflammation",
+        "ischemia"
+      ],
+      "category": "pathology"
+    },
+    "colon": {
+      "alternatives": [
+        "heart",
+        "liver",
+        "lung",
+        "spleen",
+        "stomach"
+      ],
+      "category": "anatomy"
+    },
+    "consolidation": {
+      "alternatives": [
+        "calcification",
+        "opacity",
+        "protrusion"
+      ],
+      "category": "finding"
+    },
+    "cyst": {
+      "alternatives": [
+        "abscess",
+        "lesion",
+        "neoplasm",
+        "nodule",
+        "tumor"
+      ],
+      "category": "pathology"
+    },
+    "cystic": {
+      "alternatives": [
+        "atrophic",
+        "chronic",
+        "focal",
+        "moderate-sized"
+      ],
+      "category": "descriptors"
+    },
+    "deep": {
+      "alternatives": [
+        "posterior",
+        "superficial"
+      ],
+      "category": "location"
+    },
+    "diaphragm": {
+      "alternatives": [
+        "aorta",
+        "bowel",
+        "breast",
+        "lung",
+        "prostate"
+      ],
+      "category": "anatomy"
+    },
+    "diffuse": {
+      "alternatives": [
+        "dilate"
+      ],
+      "category": "descriptors"
+    },
+    "dilatation": {
+      "alternatives": [
+        "calcification",
+        "filling defect",
+        "hernia",
+        "occlusion",
+        "protrusion"
+      ],
+      "category": "finding"
+    },
+    "distal": {
+      "alternatives": [
+        "external",
+        "intrahepatic",
+        "lateral",
+        "peripancreatic",
+        "proximal"
+      ],
+      "category": "location"
+    },
+    "distension": {
+      "alternatives": [
+        "effusion",
+        "filling defect",
+        "gas",
+        "wall thickening"
+      ],
+      "category": "finding"
+    },
+    "diverticulitis": {
+      "alternatives": [
+        "adenocarcinoma",
+        "appendicitis",
+        "cholecystitis",
+        "colitis",
+        "epiploic appendagitis"
+      ],
+      "category": "pathology"
+    },
+    "duodenum": {
+      "alternatives": [
+        "gallbladder",
+        "hepatic artery",
+        "kidney",
+        "pancreas",
+        "stomach"
+      ],
+      "category": "anatomy"
+    },
+    "edema": {
+      "alternatives": [
+        "air",
+        "distension",
+        "effusion",
+        "hernia",
+        "stone"
+      ],
+      "category": "finding"
+    },
+    "effusion": {
+      "alternatives": [
+        "consolidation",
+        "distension",
+        "mass",
+        "pleural thickening"
+      ],
+      "category": "finding"
+    },
+    "embolism": {
+      "alternatives": [
+        "infarction",
+        "pelvic congestion syndrome"
+      ],
+      "category": "pathology"
+    },
+    "embolus": {
+      "alternatives": [
+        "adenocarcinoma",
+        "atelectasis",
+        "endocarditis",
+        "infarct"
+      ],
+      "category": "pathology"
+    },
+    "emboli": {
+      "alternatives": [
+        "adenocarcinoma",
+        "atelectasis",
+        "endocarditis",
+        "infarct"
+      ],
+      "category": "pathology"
+    },
+    "thrombosis": {
+      "alternatives": [
+        "adenocarcinoma",
+        "atelectasis",
+        "endocarditis",
+        "pneumonia",
+        "infarction"
+      ],
+      "category": "pathology"
+    },
+    "pe": {
+      "alternatives": [
+        "adenocarcinoma",
+        "atelectasis",
+        "endocarditis"
+      ],
+      "category": "pathology"
+    },
+    "thromboembolism": {
+      "alternatives": [
+        "adenocarcinoma",
+        "atelectasis",
+        "endocarditis",
+        "pneumonia"
+      ],
+      "category": "pathology"
+    },
+    "enhancement": {
+      "alternatives": [
+        "hypodensity",
+        "hypoenhancement",
+        "isodensity",
+        "nonenhancement"
+      ],
+      "category": "descriptors"
+    },
+    "enhance": {
+      "alternatives": [
+        "enlarge",
+        "increase"
+      ],
+      "category": "descriptors"
+    },
+    "enlarge": {
+      "alternatives": [
+        "distend",
+        "distort",
+        "enhance",
+        "increase",
+        "occlude"
+      ],
+      "category": "descriptors"
+    },
+    "esophagus": {
+      "alternatives": [
+        "appendix",
+        "bile duct",
+        "bladder",
+        "thorax",
+        "vertebra"
+      ],
+      "category": "anatomy"
+    },
+    "evident": {
+      "alternatives": [
+        "hidden",
+        "not evident",
+        "obscured",
+        "subtle"
+      ],
+      "category": "confidence_terms"
+    },
+    "external": {
+      "alternatives": [
+        "extrahepatic",
+        "internal",
+        "intra-abdominal",
+        "peripheral",
+        "superficial"
+      ],
+      "category": "location"
+    },
+    "right": {
+      "alternatives": [
+        "left",
+        "central"
+      ],
+      "category": "location"
+    },
+    "left": {
+      "alternatives": [
+        "right",
+        "central"
+      ],
+      "category": "location"
+    },
+    "extrahepatic": {
+      "alternatives": [
+        "external",
+        "intra-abdominal",
+        "intrahepatic",
+        "peripheral",
+        "proximal"
+      ],
+      "category": "location"
+    },
+    "filling defect": {
+      "alternatives": [
+        "contrast",
+        "dilatation",
+        "flow void",
+        "patent lumen"
+      ],
+      "category": "finding"
+    },
+    "fistula": {
+      "alternatives": [
+        "abscess",
+        "appendicitis",
+        "perforation",
+        "sinus tract",
+        "ulceration"
+      ],
+      "category": "pathology"
+    },
+    "fluid": {
+      "alternatives": [
+        "air",
+        "blood",
+        "fat",
+        "gas",
+        "soft tissue"
+      ],
+      "category": "finding"
+    },
+    "focal": {
+      "alternatives": [
+        "cystic",
+        "nodular"
+      ],
+      "category": "descriptors"
+    },
+    "fracture": {
+      "alternatives": [
+        "abscess",
+        "contusion",
+        "dislocation",
+        "hematoma",
+        "subluxation"
+      ],
+      "category": "pathology"
+    },
+    "gallbladder": {
+      "alternatives": [
+        "appendix",
+        "kidney",
+        "pancreas",
+        "spleen",
+        "stomach"
+      ],
+      "category": "anatomy"
+    },
+    "gas": {
+      "alternatives": [
+        "air",
+        "contrast",
+        "distension",
+        "fluid",
+        "soft tissue"
+      ],
+      "category": "finding"
+    },
+    "groundglass": {
+      "alternatives": [
+        "fluid",
+        "gas"
+      ],
+      "category": "finding"
+    },
+    "heart": {
+      "alternatives": [
+        "appendix",
+        "brain",
+        "kidney",
+        "liver",
+        "spleen"
+      ],
+      "category": "anatomy"
+    },
+    "hemangioma": {
+      "alternatives": [
+        "cholesterol granuloma",
+        "giant cell arteritis"
+      ],
+      "category": "pathology"
+    },
+    "hematoma": {
+      "alternatives": [
+        "abscess",
+        "carcinoma",
+        "diverticulitis",
+        "fracture",
+        "mass"
+      ],
+      "category": "pathology"
+    },
+    "hemorrhage": {
+      "alternatives": [
+        "aneurysm",
+        "cholecystitis",
+        "cyst",
+        "mass",
+        "tumor"
+      ],
+      "category": "pathology"
+    },
+    "hepatic artery": {
+      "alternatives": [
+        "adrenal",
+        "duodenum",
+        "ovary",
+        "portal vein",
+        "sigmoid colon"
+      ],
+      "category": "anatomy"
+    },
+    "hernia": {
+      "alternatives": [
+        "defect",
+        "diastasis",
+        "dilatation",
+        "distension",
+        "edema"
+      ],
+      "category": "finding"
+    },
+    "herniation": {
+      "alternatives": [
+        "calculus",
+        "dilatation",
+        "effusion",
+        "myxoma",
+        "nodule"
+      ],
+      "category": "finding"
+    },
+    "hydronephrosis": {
+      "alternatives": [
+        "ascites",
+        "caliectasis",
+        "hydroureter",
+        "pyelonephritis",
+        "renal obstruction"
+      ],
+      "category": "pathology"
+    },
+    "hypoattenuate": {
+      "alternatives": [
+        "decrease",
+        "nonenhance"
+      ],
+      "category": "descriptors"
+    },
+    "hypoenhancement": {
+      "alternatives": [
+        "hypoattenuation",
+        "hyperenhancement"
+      ],
+      "category": "descriptors"
+    },
+    "hypoenhancing": {
+      "alternatives": [
+        "hyperattenuation",
+        "hyperenhancing"
+      ],
+      "category": "descriptors"
+    },
+    "ileum": {
+      "alternatives": [
+        "appendix",
+        "kidney",
+        "liver",
+        "spleen",
+        "stomach"
+      ],
+      "category": "anatomy"
+    },
+    "inferior": {
+      "alternatives": [
+        "intra-abdominal",
+        "intrapelvic",
+        "low",
+        "medial",
+        "posterior"
+      ],
+      "category": "location"
+    },
+    "inflammation": {
+      "alternatives": [
+        "accumulation",
+        "hyperemia",
+        "infection",
+        "infiltration"
+      ],
+      "category": "pathology"
+    },
+    "internal": {
+      "alternatives": [
+        "central",
+        "external",
+        "intrahepatic",
+        "proximal",
+        "superficial"
+      ],
+      "category": "location"
+    },
+    "intrahepatic": {
+      "alternatives": [
+        "distal",
+        "extrahepatic",
+        "internal",
+        "peripancreatic",
+        "unilateral"
+      ],
+      "category": "location"
+    },
+    "intraluminal": {
+      "alternatives": [
+        "external",
+        "inferior",
+        "intrahepatic",
+        "lateral",
+        "peripancreatic"
+      ],
+      "category": "location"
+    },
+    "ischemia": {
+      "alternatives": [
+        "cirrhosis",
+        "infarct",
+        "inflammation",
+        "necrosis",
+        "perforation"
+      ],
+      "category": "pathology"
+    },
+    "jejunum": {
+      "alternatives": [
+        "abdominal wall",
+        "adrenal",
+        "kidney",
+        "liver",
+        "stomach"
+      ],
+      "category": "anatomy"
+    },
+    "kidney": {
+      "alternatives": [
+        "appendix",
+        "gallbladder",
+        "heart",
+        "lung",
+        "pancreas"
+      ],
+      "category": "anatomy"
+    },
+    "lateral": {
+      "alternatives": [
+        "anterior",
+        "distal",
+        "intraluminal",
+        "medial",
+        "peripheral"
+      ],
+      "category": "location"
+    },
+    "lesion": {
+      "alternatives": [
+        "mass",
+        "myxoma",
+        "nodule",
+        "stone",
+        "tumor"
+      ],
+      "category": "finding"
+    },
+    "fibroid": {
+      "alternatives": [
+        "myxoma",
+        "nodule",
+        "stone"
+      ],
+      "category": "finding"
+    },
+    "likely": {
+      "alternatives": [
+        "unlikely"
+      ],
+      "category": "confidence_terms"
+    },
+    "lipoma": {
+      "alternatives": [
+        "cholesterol granuloma",
+        "myxoma",
+        "sarcoma",
+        "vegetation"
+      ],
+      "category": "pathology"
+    },
+    "liver": {
+      "alternatives": [
+        "kidney",
+        "lung",
+        "pancreas",
+        "spleen",
+        "stomach"
+      ],
+      "category": "anatomy"
+    },
+    "lucent": {
+      "alternatives": [
+        "hypodense"
+      ],
+      "category": "descriptors"
+    },
+    "lung": {
+      "alternatives": [
+        "antrum",
+        "brain",
+        "kidney",
+        "liver",
+        "spleen"
+      ],
+      "category": "anatomy"
+    },
+    "lymph node": {
+      "alternatives": [
+        "bile duct",
+        "breast",
+        "liver",
+        "muscle",
+        "vein"
+      ],
+      "category": "anatomy"
+    },
+    "lymphadenopathy": {
+      "alternatives": [
+        "appendicitis",
+        "ascites",
+        "cholecystitis",
+        "cirrhosis",
+        "pneumonia"
+      ],
+      "category": "pathology"
+    },
+    "lymphoma": {
+      "alternatives": [
+        "adenoma",
+        "appendicitis",
+        "ascites",
+        "cancer",
+        "endocarditis"
+      ],
+      "category": "pathology"
+    },
+    "mass": {
+      "alternatives": [
+        "cyst",
+        "lesion",
+        "myxoma",
+        "nodule"
+      ],
+      "category": "finding"
+    },
+    "medial": {
+      "alternatives": [
+        "inferior",
+        "lateral",
+        "proximal",
+        "superior",
+        "unilateral"
+      ],
+      "category": "location"
+    },
+    "metastasis": {
+      "alternatives": [
+        "adenocarcinoma",
+        "cyst",
+        "lymphadenopathy",
+        "mass",
+        "primary tumor"
+      ],
+      "category": "pathology"
+    },
+    "muscle": {
+      "alternatives": [
+        "bladder",
+        "brain",
+        "caudate lobe",
+        "diaphragm",
+        "lung"
+      ],
+      "category": "anatomy"
+    },
+    "myxoma": {
+      "alternatives": [
+        "effusion",
+        "fluid",
+        "lipoma",
+        "sarcoma",
+        "vegetation"
+      ],
+      "category": "pathology"
+    },
+    "necrosis": {
+      "alternatives": [
+        "abscess",
+        "cavitation",
+        "cystic degeneration",
+        "fracture",
+        "hydronephrosis"
+      ],
+      "category": "pathology"
+    },
+    "neoplasm": {
+      "alternatives": [
+        "cancer",
+        "cyst",
+        "hydronephrosis",
+        "lymphadenopathy",
+        "thrombus"
+      ],
+      "category": "pathology"
+    },
+    "nephrolithiasis": {
+      "alternatives": [
+        "aneurysm",
+        "diverticulitis"
+      ],
+      "category": "pathology"
+    },
+    "nodular": {
+      "alternatives": [
+        "diffuse",
+        "flat",
+        "linear",
+        "smooth"
+      ],
+      "category": "descriptors"
+    },
+    "nodule": {
+      "alternatives": [
+        "calcification",
+        "cyst",
+        "granuloma",
+        "lesion",
+        "mass"
+      ],
+      "category": "finding"
+    },
+    "nonenhance": {
+      "alternatives": [
+        "hypoattenuate"
+      ],
+      "category": "descriptors"
+    },
+    "normal": {
+      "alternatives": [
+        "abnormal"
+      ],
+      "category": "descriptors"
+    },
+    "minor": {
+      "alternatives": [
+        "major",
+        "significant"
+      ],
+      "category": "descriptors"
+    },
+    "significant": {
+      "alternatives": [
+        "minor",
+        "subtle"
+      ],
+      "category": "descriptors"
+    },
+    "major": {
+      "alternatives": [
+        "minor",
+        "subtle"
+      ],
+      "category": "descriptors"
+    },
+    "obstruction": {
+      "alternatives": [
+        "adhesion",
+        "calculus",
+        "ileus",
+        "stenosis",
+        "stricture"
+      ],
+      "category": "finding"
+    },
+    "occlude": {
+      "alternatives": [
+        "calcify",
+        "collapse",
+        "dilate",
+        "distend",
+        "distort"
+      ],
+      "category": "descriptors"
+    },
+    "occlusion": {
+      "alternatives": [
+        "adhesion",
+        "calcification",
+        "dilatation",
+        "filling defect",
+        "obstruction"
+      ],
+      "category": "finding"
+    },
+    "opacity": {
+      "alternatives": [
+        "aeration",
+        "calcification",
+        "calculus",
+        "hypodensity",
+        "lucency"
+      ],
+      "category": "finding"
+    },
+    "ovary": {
+      "alternatives": [
+        "abdominal wall",
+        "accessory spleen",
+        "adrenal",
+        "cecum",
+        "duodenum"
+      ],
+      "category": "anatomy"
+    },
+    "overlie": {
+      "alternatives": [
+        "surround",
+        "underlie"
+      ],
+      "category": "location"
+    },
+    "pancreas": {
+      "alternatives": [
+        "adrenal",
+        "kidney",
+        "liver",
+        "spleen",
+        "stomach"
+      ],
+      "category": "anatomy"
+    },
+    "pancreatitis": {
+      "alternatives": [
+        "adenoma",
+        "cholecystitis",
+        "cholelithiasis",
+        "inflammation",
+        "peripancreatic fluid"
+      ],
+      "category": "pathology"
+    },
+    "cholelithiasis": {
+      "alternatives": [
+        "adenoma",
+        "cholecystitis",
+        "pancreatitis",
+        "inflammation",
+        "peripancreatic fluid"
+      ],
+      "category": "pathology"
+    },
+    "parapancreatic": {
+      "alternatives": [
+        "intrapancreatic"
+      ],
+      "category": "location"
+    },
+    "perforation": {
+      "alternatives": [
+        "adenoma",
+        "atelectasis",
+        "dehiscence",
+        "fistula"
+      ],
+      "category": "pathology"
+    },
+    "perihepatic": {
+      "alternatives": [
+        "anterior",
+        "intrahepatic",
+        "intraluminal",
+        "intrapelvic",
+        "peripancreatic"
+      ],
+      "category": "location"
+    },
+    "peripancreatic": {
+      "alternatives": [
+        "anterior",
+        "distal",
+        "intrahepatic",
+        "perihepatic",
+        "peripheral"
+      ],
+      "category": "location"
+    },
+    "peritonitis": {
+      "alternatives": [
+        "abscess",
+        "accumulation",
+        "appendicitis",
+        "endometriosis",
+        "fracture"
+      ],
+      "category": "pathology"
+    },
+    "pneumonia": {
+      "alternatives": [
+        "ascites",
+        "atelectasis",
+        "congenital lobar emphysema"
+      ],
+      "category": "pathology"
+    },
+    "pneumoperitoneum": {
+      "alternatives": [
+        "atelectasis",
+        "cyst",
+        "hydronephrosis",
+        "peritonitis",
+        "polyp"
+      ],
+      "category": "pathology"
+    },
+    "polyp": {
+      "alternatives": [
+        "adenoma",
+        "cancer",
+        "cyst",
+        "lymphadenopathy",
+        "pneumonia"
+      ],
+      "category": "pathology"
+    },
+    "polypoid": {
+      "alternatives": [
+        "flat",
+        "nodular",
+        "sessile",
+        "ulcerated"
+      ],
+      "category": "descriptors"
+    },
+    "prominent": {
+      "alternatives": [
+        "absent",
+        "subtle",
+        "mild"
+      ],
+      "category": "descriptors"
+    },
+    "prostate": {
+      "alternatives": [
+        "appendix",
+        "bile duct",
+        "bladder",
+        "rectum",
+        "sigmoid colon"
+      ],
+      "category": "anatomy"
+    },
+    "proximal": {
+      "alternatives": [
+        "distal",
+        "internal",
+        "medial",
+        "perihepatic",
+        "unilateral"
+      ],
+      "category": "location"
+    },
+    "proximally": {
+      "alternatives": [
+        "distally"
+      ],
+      "category": "location"
+    },
+    "pyelonephritis": {
+      "alternatives": [
+        "adenocarcinoma",
+        "cholecystitis",
+        "hydronephrosis",
+        "perforation",
+        "thrombus"
+      ],
+      "category": "pathology"
+    },
+    "rectum": {
+      "alternatives": [
+        "abdomen",
+        "appendix",
+        "kidney",
+        "spleen",
+        "stomach"
+      ],
+      "category": "anatomy"
+    },
+    "sigmoid colon": {
+      "alternatives": [
+        "abdomen",
+        "abdominal wall",
+        "kidney",
+        "spleen",
+        "stomach"
+      ],
+      "category": "anatomy"
+    },
+    "solid": {
+      "alternatives": [
+        "cystic",
+        "empty",
+        "empty-cystic",
+        "fluid-filled"
+      ],
+      "category": "descriptors"
+    },
+    "spine": {
+      "alternatives": [
+        "appendix",
+        "bladder",
+        "diaphragm",
+        "liver",
+        "skull"
+      ],
+      "category": "anatomy"
+    },
+    "spleen": {
+      "alternatives": [
+        "adrenal",
+        "kidney",
+        "liver",
+        "pancreas",
+        "stomach"
+      ],
+      "category": "anatomy"
+    },
+    "stenosis": {
+      "alternatives": [
+        "atelectasis",
+        "cyst",
+        "ischemia",
+        "necrosis",
+        "polyp"
+      ],
+      "category": "pathology"
+    },
+    "stomach": {
+      "alternatives": [
+        "appendix",
+        "kidney",
+        "liver",
+        "lung",
+        "spleen"
+      ],
+      "category": "anatomy"
+    },
+    "stone": {
+      "alternatives": [
+        "collection",
+        "edema",
+        "fluid",
+        "hernia",
+        "lesion"
+      ],
+      "category": "finding"
+    },
+    "stricture": {
+      "alternatives": [
+        "adenoma",
+        "carcinoma",
+        "diverticulitis",
+        "fistula",
+        "obstruction"
+      ],
+      "category": "pathology"
+    },
+    "suggestive of": {
+      "alternatives": [
+        "arguing against",
+        "inconsistent with",
+        "not suggestive of"
+      ],
+      "category": "confidence_terms"
+    },
+    "superficial": {
+      "alternatives": [
+        "deep",
+        "external",
+        "internal",
+        "periurethral",
+        "superior"
+      ],
+      "category": "location"
+    },
+    "superior": {
+      "alternatives": [
+        "inferior",
+        "lateral",
+        "posterior",
+        "superficial",
+        "upper"
+      ],
+      "category": "location"
+    },
+    "surround": {
+      "alternatives": [
+        "overlie",
+        "underlie"
+      ],
+      "category": "location"
+    },
+    "suspicious": {
+      "alternatives": [
+        "benign appearing",
+        "not concerning",
+        "not suspicious"
+      ],
+      "category": "descriptors"
+    },
+    "thorax": {
+      "alternatives": [
+        "appendix",
+        "bladder",
+        "bone",
+        "caudate lobe",
+        "chest"
+      ],
+      "category": "anatomy"
+    },
+    "thrombus": {
+      "alternatives": [
+        "embolus",
+        "hematoma",
+        "ischemia",
+        "pyelonephritis",
+        "tumor"
+      ],
+      "category": "pathology"
+    },
+    "tumor": {
+      "alternatives": [
+        "adenoma",
+        "ascites",
+        "cyst",
+        "lesion",
+        "nodule"
+      ],
+      "category": "pathology"
+    },
+    "underlie": {
+      "alternatives": [
+        "overlie",
+        "surround"
+      ],
+      "category": "location"
+    },
+    "unilateral": {
+      "alternatives": [
+        "bilateral",
+        "inferior",
+        "intrahepatic",
+        "medial",
+        "proximal"
+      ],
+      "category": "location"
+    },
+    "unlikely": {
+      "alternatives": [
+        "likely"
+      ],
+      "category": "confidence_terms"
+    },
+    "ureter": {
+      "alternatives": [
+        "aorta",
+        "bile duct",
+        "bladder",
+        "fallopian tube",
+        "small bowel"
+      ],
+      "category": "anatomy"
+    },
+    "uterus": {
+      "alternatives": [
+        "appendix",
+        "bladder",
+        "ovary",
+        "rectum",
+        "sigmoid colon"
+      ],
+      "category": "anatomy"
+    },
+    "vein": {
+      "alternatives": [
+        "aorta",
+        "bowel",
+        "lymph node",
+        "prostate",
+        "vertebra"
+      ],
+      "category": "anatomy"
+    },
+    "vertebra": {
+      "alternatives": [
+        "chest",
+        "ileum",
+        "kidney",
+        "skull",
+        "vein"
+      ],
+      "category": "anatomy"
+    },
+    "wall thickening": {
+      "alternatives": [
+        "calcification",
+        "distension",
+        "myxoma"
+      ],
+      "category": "finding"
+    },
+    "accessory spleen": {
+      "alternatives": [
+        "adrenal",
+        "cecum",
+        "ovary"
+      ],
+      "category": "anatomy"
+    },
+    "acute cholecystitis": {
+      "alternatives": [
+        "medullary nephrocalcinosis",
+        "mural thrombus"
+      ],
+      "category": "pathology"
+    },
+    "adhesion": {
+      "alternatives": [
+        "calcification",
+        "obstruction",
+        "occlusion"
+      ],
+      "category": "finding"
+    },
+    "calculus": {
+      "alternatives": [
+        "herniation",
+        "nodule",
+        "obstruction",
+        "opacity"
+      ],
+      "category": "finding"
+    },
+    "caudate lobe": {
+      "alternatives": [
+        "chest",
+        "gallbladder",
+        "liver",
+        "prostate",
+        "skull"
+      ],
+      "category": "anatomy"
+    },
+    "certain": {
+      "alternatives": [
+        "indeterminate",
+        "possible",
+        "questionable",
+        "uncertain"
+      ],
+      "category": "confidence_terms"
+    },
+    "distort": {
+      "alternatives": [
+        "decrease",
+        "dilate",
+        "distend",
+        "enlarge",
+        "occlude"
+      ],
+      "category": "descriptors"
+    },
+    "endometriosis": {
+      "alternatives": [
+        "appendicitis",
+        "endometrial carcinoma",
+        "endometrial polyp"
+      ],
+      "category": "pathology"
+    },
+    "extrapancreatic": {
+      "alternatives": [
+        "intrapancreatic"
+      ],
+      "category": "location"
+    },
+    "intrapancreatic": {
+      "alternatives": [
+        "intraparenchymal",
+        "intrinsic"
+      ],
+      "category": "location"
+    },
+    "opaque": {
+      "alternatives": [
+        "solid"
+      ],
+      "category": "descriptors"
+    },
+    "portal vein": {
+      "alternatives": [
+        "cecum",
+        "duodenum",
+        "hepatic artery",
+        "jejunum",
+        "sigmoid colon"
+      ],
+      "category": "anatomy"
+    },
+    "protrusion": {
+      "alternatives": [
+        "calculus",
+        "consolidation",
+        "dilatation",
+        "herniation",
+        "occlusion"
+      ],
+      "category": "finding"
+    },
+    "pyonephritis": {
+      "alternatives": [
+        "cirrhosis",
+        "cyst",
+        "staghorn calculus",
+        "ureteral stricture",
+        "ureteritis"
+      ],
+      "category": "pathology"
+    },
+    "pyonephrosis": {
+      "alternatives": [
+        "cancer",
+        "hydronephrosis",
+        "staghorn calculus",
+        "ureteral stricture",
+        "ureteritis"
+      ],
+      "category": "pathology"
+    },
+    "brain": {
+      "alternatives": [
+        "bile duct",
+        "heart",
+        "kidney",
+        "liver",
+        "lung"
+      ],
+      "category": "anatomy"
+    },
+    "endocarditis": {
+      "alternatives": [
+        "diverticulitis",
+        "embolus",
+        "pneumonia",
+        "thrombus",
+        "ulceration"
+      ],
+      "category": "pathology"
+    },
+    "skull": {
+      "alternatives": [
+        "brain",
+        "caudate lobe",
+        "colon",
+        "diaphragm",
+        "vertebra"
+      ],
+      "category": "anatomy"
+    },
+    "stable": {
+      "alternatives": [
+        "changing",
+        "progressive",
+        "unstable"
+      ],
+      "category": "descriptors"
+    },
+    "ct": {
+      "alternatives": [
+        "mri",
+        "ultrasound",
+        "x-ray",
+        "fluoroscopy",
+        "angiogram"
+      ],
+      "category": "study_types"
+    },
+    "mri": {
+      "alternatives": [
+        "ct",
+        "ultrasound",
+        "x-ray",
+        "fluoroscopy",
+        "angiogram"
+      ],
+      "category": "study_types"
+    },
+    "ultrasound": {
+      "alternatives": [
+        "ct",
+        "mri",
+        "x-ray",
+        "fluoroscopy",
+        "angiogram"
+      ],
+      "category": "study_types"
+    },
+    "x-ray": {
+      "alternatives": [
+        "ct",
+        "mri",
+        "ultrasound",
+        "fluoroscopy",
+        "angiogram"
+      ],
+      "category": "study_types"
+    },
+    "fluoroscopy": {
+      "alternatives": [
+        "ct",
+        "mri",
+        "ultrasound",
+        "x-ray",
+        "angiogram"
+      ],
+      "category": "study_types"
+    },
+    "angiogram": {
+      "alternatives": [
+        "ct",
+        "mri",
+        "ultrasound",
+        "x-ray",
+        "fluoroscopy"
+      ],
+      "category": "study_types"
+    },
+    "mrcp": {
+      "alternatives": [
+        "ct",
+        "mri",
+        "ultrasound",
+        "x-ray",
+        "fluoroscopy"
+      ],
+      "category": "study_types"
+    },
+    "pet/ct": {
+      "alternatives": [
+        "ct",
+        "mri",
+        "ultrasound",
+        "x-ray",
+        "fluoroscopy"
+      ],
+      "category": "study_types"
+    }
+  }
+}
